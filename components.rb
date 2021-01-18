@@ -26,7 +26,6 @@ end
 
 def cards(photos)
 	cards = ''
-
 	photos.each_slice(2) do |photos_gropup|
 		cards += "<div class='card-deck my-5'>\n"
 		photos_gropup.each do |photo|
