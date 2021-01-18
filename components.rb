@@ -21,7 +21,7 @@ def build_web_page(photos)
 end
 
 def titulo()
-	'<h1 class="text-center text-white" style="font-size: 60px;">Fotos Mars  Rover</h1>'
+	'<h1 class="text-center text-white" style="font-size: 60px;">Fotos Mars Rover</h1>'
 end
 
 def cards(photos)
